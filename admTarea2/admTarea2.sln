@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admTarea2", "admTarea2\admTarea2.csproj", "{A1C4E471-1986-49F6-9E3F-9D1BF7BF6790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "admTarea2.Tests", "admTarea2.Tests\admTarea2.Tests.csproj", "{DBAEE98B-91F6-43E2-B0E8-935B55EB5F8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C4E471-1986-49F6-9E3F-9D1BF7BF6790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C4E471-1986-49F6-9E3F-9D1BF7BF6790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C4E471-1986-49F6-9E3F-9D1BF7BF6790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C4E471-1986-49F6-9E3F-9D1BF7BF6790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAEE98B-91F6-43E2-B0E8-935B55EB5F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAEE98B-91F6-43E2-B0E8-935B55EB5F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAEE98B-91F6-43E2-B0E8-935B55EB5F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAEE98B-91F6-43E2-B0E8-935B55EB5F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A93D30-34F8-438A-B8D3-A808EAB6158C}
+	EndGlobalSection
+EndGlobal
